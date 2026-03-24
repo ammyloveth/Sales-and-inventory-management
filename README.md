@@ -35,3 +35,30 @@ Orders → Payments (1:1)
 * Sales and revenue analysis
 * Customer ranking using window functions
 * Monthly performance reporting
+
+
+## Business Insights
+* Total Revenue: Calculated from payments
+* Top Products: Identified by highest sales volume
+* Customer Insights: High-value and loyal customers detected
+* Inventory: Unsold and slow-moving products identified
+* Suppliers: Best-performing supplier determined
+
+
+## Improvements
+* Add payment_method field in inserts
+* Standardize table naming
+* Include indexes for performance optimization
+
+
+## Deliverables
+* Database creation script
+* Data insertion script
+* Query script with all answers
+* Documentation (README)
+* Presentation
+
+
+## Conclusion
+
+This system demonstrates effective use of SQL for database design, data management, and business analytics, applicable to real-world retail and inventory systems.
