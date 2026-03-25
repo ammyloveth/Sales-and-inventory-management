@@ -18,6 +18,7 @@ order_details – products per order
 payments – order payments
 
 Relationships:
+<img width="790" height="319" alt="sales report table" src="https://github.com/user-attachments/assets/40df6f53-c1d7-4394-a77a-ac68c6bd7fe6" />
 
 Customer → Orders (1:M)
 Orders → Order Details (1:M)
