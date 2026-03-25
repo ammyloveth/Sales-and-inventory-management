@@ -44,21 +44,7 @@ Orders → Payments (1:1)
 * Customer Insights: High-value and loyal customers detected
 * Inventory: Unsold and slow-moving products identified
 * Suppliers: Best-performing supplier determined
-
-
-## Improvements
-* Add payment_method field in inserts
-* Standardize table naming
-* Include indexes for performance optimization
-
-
-## Deliverables
-* Database creation script
-* Data insertion script
-* Query script with all answers
-* Documentation (README)
-* Presentation
-
+  
 
 ## Conclusion
 
